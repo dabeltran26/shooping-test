@@ -1,0 +1,4 @@
+#Tue Jan 25 13:07:52 COT 2022
+base.0=/Users/a123/Downloads/shooping-cart-main/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
